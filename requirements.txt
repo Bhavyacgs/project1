@@ -1,0 +1,6 @@
+langchain
+PyPDF2
+pinecone
+langchain_groq
+langchain_openai
+sentence-transformers
